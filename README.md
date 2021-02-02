@@ -1,2 +1,2 @@
-# randomized
-random input generation
+# randomized 
+Random data generator
